@@ -1,0 +1,55 @@
+img{
+  position: absolute;
+width: 141px;
+height: 99px;
+left: 69px;
+top: 58px;
+}
+.menu1{
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 705px;
+top: 88px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.menu2{
+  position: absolute;
+width: 127px;
+height: 22px;
+left: 888px;
+top: 88px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.menu3{
+
+position: absolute;
+width: 124px;
+height: 24px;
+left: 1015px;
+top: 88px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
